@@ -1,6 +1,6 @@
  [![UNP](https://unp.ac.id/nfs-assets/all/images/logo_unp_white.png)](https://unp.ac.id/)
 # 💫 About Me:
-🎓I'm a student at Padang State University<br>💻I'm currently studying programming languages C, Phyton<br>🎮In my free time i like to playing game<br>💬DM me in INSTAGRAM if you want to know more about me
+🎓I'm a student at Padang State University<br>💻I'm currently studying programming languages C, Phyton<br>🎮In my free time i like to playing game<br>
 
 
 ## 🌐 Socials:
