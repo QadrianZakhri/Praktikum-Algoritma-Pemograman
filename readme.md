@@ -20,27 +20,4 @@
 
 
 <h2 id="navigator"> 💻 Kesimpulan Jobsheet</h2>
-<table>
-<tr>
-<td>
-<pre>
-<list>
-  <li><a href="#js1">Job Sheet 1 - Pengenalan Struktur Data</a></li>
-  <li><a href="#js2">Job Sheet 2 - Array, Pointer, Structure</a></li>
-  <li><a href="#js3">Job Sheet 3 - Single Linked List</a></li>
-  <li><a href="#js4">Job Sheet 4 - Doubly Linked List</a></li>
-  <li><a href="#js5">Job Sheet 5 - Double and Circular Linked List</a></li>
-  <li><a href="#js6">Job Sheet 6 - Stack</a></li>
-  <li><a href="#js7">Job Sheet 7 - Queue</a></li>
-  <li><a href="#js8">Job Sheet 8 - Bubble and Insertion Sort</a></li>
-  <li><a href="#js9">Job Sheet 9 - Selection and Merge Sort</a></li>
-  <li><a href="#js10">Job Sheet 10 - Shell and Quick Sort</a></li>
-  <li><a href="#js11">Job Sheet 11 - Linear and Binary Search</a></li>
-  <li><a href="#js12">Job Sheet 12 - Tree</a></li>
-  <li><a href="#js13">Job Sheet 13 - Graphs</a></li>
-</list>
-</pre>
-</td>
-</tr>
-</table>
 
