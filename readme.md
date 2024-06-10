@@ -3,7 +3,7 @@
 🎓I'm a student at Padang State University<br>💻I'm currently studying programming languages C & Phyton<br>🎮In my free time i like to playing game or hangout<br>
 
 
-## 🌐 Socials:
+## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryan.zkr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@azuragaksi)
 
 # 💻 Tech Stack:
