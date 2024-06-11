@@ -17,6 +17,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=QadrianZakhri&icon=0&color=6)](https://visitcount.itsvg.in)
 
+<h2 id="navigator"> 💻 Kesimpulan Jobsheet</h2>
+
 ## Jobsheet 1 Pengenalan Struktur Data
 ### Struktur Data
 
@@ -286,5 +288,5 @@ Depth First Search (DFS) adalah teknik yang berbasis tepi (edge) dan menggunakan
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h2 id="navigator"> 💻 Kesimpulan Jobsheet</h2>
+
 
