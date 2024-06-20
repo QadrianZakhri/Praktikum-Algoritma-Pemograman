@@ -287,7 +287,7 @@ Depth First Search (DFS) adalah teknik yang berbasis tepi (edge) dan menggunakan
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="center"> ## Terima Kasih
+<h2 align="center"> Terima Kasih
 
 <!--Footer--> 
 <p align="center">
