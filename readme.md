@@ -15,7 +15,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=QadrianZakhri&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=QadrianZakhri&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <h2 id="navigator"> 💻 Kesimpulan Jobsheet</h2>
 
