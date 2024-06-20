@@ -283,12 +283,8 @@ Depth First Search (DFS) adalah teknik yang berbasis tepi (edge) dan menggunakan
 2. Ambil item teratas dari tumpukan dan tambahkan ke daftar simpul yang telah dikunjungi.
 3. Buatlah daftar dari simpul-simpul yang terhubung langsung dengan simpul tersebut. Tambahkan simpul yang belum dikunjungi ke bagian atas tumpukan.
 4. Ulangi langkah 2 dan 3 sampai tumpukan menjadi kosong.
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
+<br>
+<br>
 <h2 align="center"> Terima Kasih
 
 <!--Footer--> 
