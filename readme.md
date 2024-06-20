@@ -19,7 +19,7 @@
 
 ## 💻 Kesimpulan Jobsheet</h2>
 
-## Jobsheet 1 Pengenalan Struktur Data
+## Jobsheet 1 - Pengenalan Struktur Data
 ### Struktur Data
 
 Struktur data adalah metode penyimpanan, penyusunan, dan pengaturan data dalam media penyimpanan komputer, sehingga data tersebut dapat diakses dan digunakan dengan efisien. Struktur data umumnya digunakan untuk mengelompokkan beberapa informasi yang terkait menjadi satu kesatuan.
@@ -53,7 +53,7 @@ Objek data mengacu pada kumpulan elemen yang unik dan tersimpan sebagai satu kes
 
 Dalam teknik pemrograman, struktur data merujuk pada tata letak data yang terdiri dari kolom-kolom. Lebar kolom data dapat bervariasi; beberapa kolom memiliki lebar yang dinamis sesuai masukan pengguna, sementara yang lain memiliki lebar tetap. Penggunaan struktur data yang tepat dapat meningkatkan efisiensi dan efektivitas algoritma pemrograman.
 
-## Jobsheet 2 Array, Pointer, Structure
+## Jobsheet 2 - Array, Pointer, Structure
 ### Array
 Array adalah kumpulan nilai yang memiliki tipe data yang sama. Setiap elemen dalam array dapat diakses menggunakan indeks, memungkinkan akses langsung atau acak ke elemen tersebut.
 
@@ -73,7 +73,7 @@ ADT adalah koleksi data dan operasi yang dapat digunakan untuk memanipulasi data
 
 Dalam bahasa C, terdapat berbagai tipe data termasuk numerik dan karakter seperti int, float, dan char. Selain itu, juga ada tipe data enumerasi dan struktur (structure).
 
-## Jobsheet 3 Single Linked List
+## Jobsheet 3 - Single Linked List
 ### Simpul/Nodes
 Simpul atau node berisi alamat dan kumpulan data. Dalam sebuah simpul, keduanya dibungkus menjadi satu objek berupa struct.
 
@@ -94,7 +94,7 @@ Linked List adalah struktur data yang terdiri dari simpul-simpul atau node-node 
 ### Single Linked List
 Single Linked List adalah jenis linked list yang hanya memiliki satu variabel pointer. Pointer tersebut menunjuk ke node berikutnya dalam list.
 
-## Jobsheet 4 Double Linked List
+## Jobsheet 4 - Double Linked List
 ### Double Linked List (DLL)
 Doubly Linked List (DLL) memiliki pointer tambahan yang disebut pointer sebelumnya, selain pointer berikutnya dan data yang ada dalam linked list tunggal. DLL memiliki dua arah data yaitu next dan previous, serta memiliki head dan tail.
 
@@ -110,7 +110,7 @@ Linked list dianggap kosong jika pointer head berisi NULL. Selain itu, pointer p
 - **Ruang Memori Tambahan:** Setiap simpul dalam DLL memerlukan ruang memori tambahan untuk menyimpan dua pointer.
 - **Operasi Kompleks:** Setiap operasi yang dilakukan harus menyertakan pointer ke simpul sebelumnya, yang dapat menambah kompleksitas.
 
-## Jobsheet 5 Double and Circular Linked List
+## Jobsheet 5 - Double and Circular Linked List
 ### Double Linked List
 Double Linked List adalah struktur data di mana setiap elemen terhubung dengan dua pointer dalam satu node, memungkinkan traversal baik ke depan (next) maupun ke belakang (prev).
 
@@ -124,7 +124,7 @@ Untuk menunjukkan awal dari double linked list, pointer prev dari elemen pertama
 ### Circular Linked List
 Circular Linked List adalah jenis linked list yang tidak memiliki elemen tail. Dalam circular linked list, pointer next dari elemen terakhir menunjuk kembali ke elemen pertama, bukan ke NULL. Dalam double linked circular list, pointer prev dari elemen pertama menunjuk ke elemen terakhir, membentuk struktur melingkar.
 
-## Jobsheet 6 Stack
+## Jobsheet 6 - Stack
 ### Stack
 Stack adalah struktur data di mana setiap elemen data ditempatkan di atas elemen lainnya, mengikuti aturan LIFO (Last In First Out). Ini berarti elemen terakhir yang dimasukkan ke dalam stack akan menjadi elemen pertama yang diambil.
 
@@ -146,7 +146,7 @@ isEmpty adalah metode yang digunakan untuk memeriksa apakah stack kosong. Ini di
 ### Clear
 Clear adalah operasi yang digunakan untuk mengosongkan seluruh isi stack.
 
-## Jobsheet 7 Queue
+## Jobsheet 7 - Queue
 ### Queue (Antrian)
 Queue adalah bentuk khusus dari List Linier di mana operasi penyisipan (insertion) hanya diperbolehkan pada satu sisi, yaitu sisi belakang (REAR), dan operasi penghapusan (deletion) hanya diperbolehkan pada sisi lainnya, yaitu sisi depan (FRONT).
 
@@ -163,7 +163,7 @@ Urutan pertama yang akan dikeluarkan disebut Front atau Head. Sebaliknya, data y
 - **Enqueue**: Proses menambahkan data ke dalam antrean.
 - **Dequeue**: Proses menghapus data dari antrean.
 
-## Jobsheet 8 Bubble and Insertion Sort
+## Jobsheet 8 - Bubble and Insertion Sort
 ### Sorting (Pengurutan)
 Sorting adalah proses mengatur data yang awalnya disusun secara acak menjadi teratur menurut aturan tertentu.
 
@@ -176,7 +176,7 @@ Bubble sort adalah metode pengurutan yang bekerja dengan menukar data yang berde
 ### Insertion Sort
 Insertion sort adalah teknik pengurutan dengan cara membandingkan dan mengurutkan dua elemen pertama pada array, kemudian membandingkan elemen berikutnya untuk menempatkannya di posisi yang semestinya. Algoritma ini mirip dengan proses mengurutkan kartu di tangan kita.
 
-## Jobsheet 9 Selection and Merge Sort
+## Jobsheet 9 - Selection and Merge Sort
 ### Selection Sort
 Selection sort adalah algoritma yang digunakan untuk mencari dan memilih elemen terkecil dalam sebuah list yang belum terurut pada setiap iterasi, kemudian menempatkan elemen terkecil tersebut di urutan paling depan.
 
@@ -194,7 +194,7 @@ Merge sort adalah algoritma pengurutan yang bekerja dengan membagi daftar menjad
 2. **Conquer**: Pecahkan submasalah dengan menyelesaikannya secara rekursif. Selesaikan submasalah sebagai kasus dasar jika submasalah tersebut cukup kecil.
 3. **Combine**: Untuk menemukan solusi dari masalah awal, gabungkan solusi dari submasalah yang telah diselesaikan.
 
-## Jobsheet 10 Shell and Quick Sort
+## Jobsheet 10 - Shell and Quick Sort
 ### Shell Sort
 Shell Sort adalah algoritma pengurutan yang membandingkan dan mengurutkan elemen-elemen yang memiliki jarak interval tertentu. Prinsip dasarnya mirip dengan Insertion Sort, tetapi lebih efisien untuk daftar yang lebih besar.
 
@@ -214,7 +214,7 @@ Quick Sort adalah algoritma pengurutan yang memilih sebuah elemen sebagai pivot 
 3. Fungsi partisi() adalah proses utama dalam quickSort. Tujuannya adalah menempatkan pivot pada posisi yang benar dalam array yang diurutkan, dan menempatkan elemen yang lebih kecil di sebelah kiri dan yang lebih besar di sebelah kanan pivot.
 4. Partisi dilakukan secara rekursif pada setiap sisi pivot setelah pivot ditempatkan pada posisi yang benar, hingga seluruh array terurut.
 
-## Jobsheet 11  Linear and Binary Search
+## Jobsheet 11 - Linear and Binary Search
 ### Algoritma Pencarian
 
 Algoritma pencarian adalah sebuah metode yang menerima argumen kunci dan melakukan serangkaian langkah untuk menemukan rekaman yang sesuai dengan kunci tersebut. Hasil dari pencarian ini bisa berupa data yang ditemukan (berhasil) atau tidak ditemukan (gagal).
@@ -237,7 +237,7 @@ Langkah-langkah Binary Search:
 
 Dengan cara ini, Binary Search mengurangi separuh rentang pencarian di setiap langkah, membuatnya lebih efisien dibandingkan Linear Search terutama pada data yang besar.
 
-## Jobsheet 12 Tree
+## Jobsheet 12 - Tree
 ### Tree Traversal
 
 Tree Traversal adalah proses mengunjungi semua simpul (node) dalam sebuah pohon data (tree).
@@ -264,7 +264,7 @@ Langkah-langkahnya:
 2. Kunjungi semua simpul di sub-pohon sebelah kanan.
 3. Terakhir, kunjungi simpul root.
 
-## Jobsheet 13 Graphs
+## Jobsheet 13 - Graphs
 ### Breadth-First Search (BFS)
 Breadth-First Search (BFS) adalah teknik yang berbasis simpul untuk mencari jalur terpendek dalam sebuah graf. Metode ini menggunakan struktur data Antrian (Queue) yang mengikuti prinsip first in first out (FIFO).
 
